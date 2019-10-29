@@ -1,16 +1,10 @@
 # Zyte Framework
-<br />
-<b>Written in:</b>
-<br />
+
+Originaly built back in 2016-2017 whenever I was learning about APIs and the usage of JWT.
+
+### Written in:
 - PHP
-<br />
-<b>Software suggestions:</b>
-<br />
-- AMPPS web server (Plug'n Play) - Works for Mac, Windows and Linux(?)
-<br />
-- Atom.io (great IDE with Git integration)
-<br />
-<br />
-<b>Contributors:</b>
-<br />
-Gjert Ingar Gjersund
+
+### Software suggestions:
+- AMPPS web server - Works for Mac, Windows and Linux(?)
+- Atom.io
