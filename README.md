@@ -1,6 +1,6 @@
 # Zyte Framework
 
-Originaly built back in 2016-2017 whenever I was learning about APIs and the usage of JWT.
+Originaly built back in 2016-2017 whenever I was learning more about APIs and the usage of JWT.
 
 ### Written in:
 - PHP
